@@ -10,4 +10,4 @@
     <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div></br>
 
-Estou atualmente no segundo período de Ciência da Computação na PUCPR. Adoro estudar sobre tecnologia e criar meus próprios códigos.
+Estou atualmente no segundo período de Ciência da Computação na PUCPR. Adoro estudar sobre programação e criar meus próprios códigos.
