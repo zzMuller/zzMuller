@@ -1,6 +1,6 @@
 ### Olá, eu sou o Bernardo Schlottag Muller 🖐
 
-## Tecnologias que uso diariamente:
+## Linguagens que uso diariamente:
 
 <div style= "display: inline_block"><br/>
     <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
