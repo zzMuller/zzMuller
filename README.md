@@ -1,4 +1,4 @@
-### Olá eu sou o Bernardo Schlottag Muller 🖐
+### Olá, eu sou o Bernardo Schlottag Muller 🖐
 
 ## Tecnologias que uso diariamente:
 
